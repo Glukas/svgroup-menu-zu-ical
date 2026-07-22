@@ -32,7 +32,7 @@ CONFIG_PATH = ROOT / "config" / "restaurants.yaml"
 OUTPUT_DIR = ROOT / "docs"
 
 # Wie viele Tage ab heute abgerufen werden sollen (Wochenenden werden automatisch übersprungen)
-DAYS_AHEAD = 1
+DAYS_AHEAD = 2
 
 # Auf True setzen, um das gerenderte HTML zusätzlich in debug_page_{tag}.html zu speichern (hilfreich, falls sich die Struktur mal wieder ändert)
 DEBUG_DUMP_HTML = False
