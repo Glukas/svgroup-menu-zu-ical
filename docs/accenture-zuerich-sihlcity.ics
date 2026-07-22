@@ -4,19 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260721T113000
-DTEND:20260721T130000
-DTSTAMP:20260721T214432Z
-UID:Accenture Zürich (Sihlcity)-2026-07-21-5ee930c6021c@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nBBQ Day Sihlou\nSchweinshohrückensteak\, Chimic
- hurri\, Kartoffel-Gurkensalat\, Huusbrot\nCHF 12.50\n(Glutenfrei\, Laktose
- frei)\n\n\nGREEN\n-----\nBBQ Day Sihlou\nSoja-Steak\, Chimichurri\, Kartof
- fel-Gurkensalat\, Huusbrot\nCHF 12.50\n\n\nDAILY BOWL\n----------\nSwiss S
- alad Bowl\nWurststreifen\, Käsestreifen\, Eisberg Julienne\, Tomaten\, Es
- siggurken\, rote Zwiebeln\, Ei gekocht\, Radieschen\, Schnittlauch\, gerö
- stete Zwiebeln\nCHF 10.50\n\n\nTAGESSUPPE\n----------\nTomaten-Peperonisup
- pe\nReibkäse und Kräutern\nCHF 6.50\n(Vegetarisch\, Glutenfrei\, Laktose
- frei)
+DTSTART:20260722T113000
+DTEND:20260722T130000
+DTSTAMP:20260722T141539Z
+UID:Accenture Zürich (Sihlcity)-2026-07-22-54c18d7fbead@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBEEF EMPANADAS\nBeef Empanadas\, Chimichurri\, B
+ ean & Corn Salad\, Tomato & Onion Salad\nCHF 18.50\n\n\nGREEN\n-----\nVEGE
+ TABLES EMPANADAS\nVegetable Empanadas\, Chimichurri\, Bean & Corn Salad\, 
+ Tomato & Onion Salad\nCHF 18.50\n(Vegan\, Lactose-free)\n\n\nDAILY BOWL\n-
+ ---------\nMediterrane Vegi Bowl\nCouscous\, crumbled feta cheese\, sliced
+  bell peppers\, diced cucumbers\, cherry tomatoes\, red onion pickles\, ar
+ ugula\, olives\, toasted pine nuts\, fresh basil\nCHF 10.50\n(Vegetarian\,
+  Lactose-free)\n\n\nTAGESSUPPE\n----------\nCream of Potato and Leek Soup\
+ nchives\nCHF 6.50\n(Vegetarian\, Gluten-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
