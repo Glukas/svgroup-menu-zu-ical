@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
+X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20260721T113000
+DTEND:20260721T130000
+DTSTAMP:20260721T214432Z
+UID:Accenture Zürich (Sihlcity)-2026-07-21-5ee930c6021c@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBBQ Day Sihlou\nSchweinshohrückensteak\, Chimic
+ hurri\, Kartoffel-Gurkensalat\, Huusbrot\nCHF 12.50\n(Glutenfrei\, Laktose
+ frei)\n\n\nGREEN\n-----\nBBQ Day Sihlou\nSoja-Steak\, Chimichurri\, Kartof
+ fel-Gurkensalat\, Huusbrot\nCHF 12.50\n\n\nDAILY BOWL\n----------\nSwiss S
+ alad Bowl\nWurststreifen\, Käsestreifen\, Eisberg Julienne\, Tomaten\, Es
+ siggurken\, rote Zwiebeln\, Ei gekocht\, Radieschen\, Schnittlauch\, gerö
+ stete Zwiebeln\nCHF 10.50\n\n\nTAGESSUPPE\n----------\nTomaten-Peperonisup
+ pe\nReibkäse und Kräutern\nCHF 6.50\n(Vegetarisch\, Glutenfrei\, Laktose
+ frei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+END:VCALENDAR
