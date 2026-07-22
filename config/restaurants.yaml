@@ -1,0 +1,11 @@
+restaurants:
+  - slug: accenture-zuerich-sihlcity
+    name: "Accenture Zürich (Sihlcity)"
+    url: "https://sv-gastronomie.ch/menu/Accenture,%20Z%C3%BCrich/Mittagsmen%C3%BC%20Sihlou"
+
+  # Kanti Baden aktuell in Ferien -> vorerst auskommentiert, später wieder aktivieren
+  # - slug: kanti-baden
+  #   name: "Kantonsschule Baden"
+  #   url: "https://sv-gastronomie.ch/menu/Kantonsschule,%20Baden/Mittagsmen%C3%BC"
+
+  # Weiteres Restaurant hinzufügen: einfach Block kopieren, slug + name + url anpassen

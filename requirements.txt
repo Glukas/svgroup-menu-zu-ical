@@ -1,0 +1,5 @@
+selenium==4.24.0
+webdriver-manager==4.0.2
+beautifulsoup4==4.12.3
+icalendar==5.0.13
+PyYAML==6.0.2
