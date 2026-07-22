@@ -30,7 +30,7 @@ Diese URL als **Kalender-Abo** (nicht als Download!) in deiner Kalender-App hinz
 Wenn du dieses Repository direkt benutzen möchtest (Im Moment Wert zu Accenture Restaurant gesetzt) : 
 
 ```
-https://glukas.github.io/svgroup-menu-zu-ical/docs/accenture-zuerich-sihlcity.ics
+https://glukas.github.io/svgroup-menu-zu-ical/accenture-zuerich-sihlcity.ics
 ```
 
 ### Manuell ausführen
