@@ -4,10 +4,10 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260805T113000
-DTEND:20260805T130000
-DTSTAMP:20260805T122247Z
-UID:Accenture Zürich (Sihlcity)-2026-08-05-ac761b09ffcf@sv-mensa-ical
+DTSTART:20260807T113000
+DTEND:20260807T130000
+DTSTAMP:20260807T083728Z
+UID:Accenture Zürich (Sihlcity)-2026-08-07-1a4587d394fd@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nSihlou is on vacation\nPelicano is open\nCHF 18.
  50
 LOCATION:Accenture Zürich (Sihlcity)
