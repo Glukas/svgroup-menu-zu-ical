@@ -4,12 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260807T113000
-DTEND:20260807T130000
-DTSTAMP:20260807T083728Z
-UID:Accenture Zürich (Sihlcity)-2026-08-07-1a4587d394fd@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nSihlou is on vacation\nPelicano is open\nCHF 18.
- 50
+DTSTART:20260810T113000
+DTEND:20260810T130000
+DTSTAMP:20260810T100125Z
+UID:Accenture Zürich (Sihlcity)-2026-08-10-77e18379ad98@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nTIRONDO RAVIOLI\nEringer beef ravioli\, tomato-b
+ asil sauce\, grated cheese\, chili oil\nCHF 12.50\n\n\nGREEN\n-----\nRICOT
+ TA & SPINACH RAVIOLI\nHerb-Cream Cheese Sauce\, Basil Pesto\, Grated Chees
+ e\, Peperoncini Oil\nCHF 12.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\n
+ Falafel Bowl\nKousama salad\, falafel\, tomatos\, hummus\, romaine lettuce
+ \, pomegranate seeds\, mint\, mini pita pocket\nCHF 10.50\n(Vegetarian)\n\
+ n\nTAGESSUPPE\n----------\nCream of Broccoli Soup\nChives\, croutons\nCHF 
+ 6.50\n(Vegetarian)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
