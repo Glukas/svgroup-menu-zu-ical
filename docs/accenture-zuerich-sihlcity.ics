@@ -4,20 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260811T113000
-DTEND:20260811T130000
-DTSTAMP:20260811T083228Z
-UID:Accenture Zürich (Sihlcity)-2026-08-11-24c269d3946d@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nBBQ Day Sihlou\nRustico skewer\, cornbread\, tom
- ato and cucumber salad with red onions\, olives\, and herbs\, Piri-Piri ma
- yo\, Lemon-garlic dip\nCHF 12.50\n\n\nGREEN\n-----\nBBQ Day Sihlou\nGrille
- d cheese\, cornbread\, tomato and cucumber salad with red onions\, olives\
- , and herbs\, Piri-Piri mayo\, lemon-garlic dip\nCHF 12.50\n(Vegetarian)\n
- \n\nDAILY BOWL\n----------\nMelon\nMixed melons\, feta cheese\, bulgur\, c
- ucumbers\, arugula\, mint\, pickled onions\, pine nuts\, pomegranate seeds
- \nCHF 10.50\n(Vegetarian\, Lactose-free)\n\n\nTAGESSUPPE\n----------\nCold
-  Cream of tomato soup\nbasil\, sour cream\nCHF 6.50\n(Vegetarian\, Gluten-
- free)
+DTSTART:20260813T113000
+DTEND:20260813T130000
+DTSTAMP:20260813T085841Z
+UID:Accenture Zürich (Sihlcity)-2026-08-13-ca9d32ffa9a7@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nCrispy Chicken\nChicken\, Korean Cucumber Salad\
+ , Sticky Soy Sauce\, Jasmine Rice\nCHF 18.50\n(Lactose-free)\n\n\nGREEN\n-
+ ----\nBAMI GORENG\nIndonesian noodle dish—spicy\, Asian vegetables\, sam
+ bal\, bean sprouts\, homemade seitan\nCHF 12.50\n(Vegan\, Lactose-free)\n\
+ n\nDAILY BOWL\n----------\nSwiss Bowl\nSausage and cheese salad\, lettuce\
+ , tomatoes\, pickles\, red onions\, eggs\, chives\, sprouts\nCHF 10.50\n\n
+ \nTAGESSUPPE\n----------\nCold Cream of Carrot Soup\nchives\, sour cream\n
+ CHF 6.50\n(Vegetarian\, Gluten-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
