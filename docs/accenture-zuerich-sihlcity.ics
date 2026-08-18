@@ -4,18 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260817T113000
-DTEND:20260817T130000
-DTSTAMP:20260817T060530Z
-UID:Accenture Zürich (Sihlcity)-2026-08-17-2a355b171c18@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nChicken Burrito\nWheat tortilla\, chicken\, bell
-  peppers\, corn\, red beans\, salsa\, sour cream dip\, tomato and cucumber
-  salad\nCHF 18.50\n\n\nGREEN\n-----\nSpaghetti al Pomodoro\nTomato sauce\,
-  grated cheese\, chili oil\nCHF 12.50\n(Vegetarian\, Lactose-free)\n\n\nDA
- ILY BOWL\n----------\nAsian Bowl\nAvocado\, basmati rice\, carrots\, sesam
- e seeds\, zucchini\, ginger\, watercress\nCHF 10.50\n(Vegan\, Gluten-free\
- , Lactose-free)\n\n\nTAGESSUPPE\n----------\nCream of Carrot Soup\nParsley
- \, croutons\nCHF 6.50\n(Vegetarian\, Gluten-free)
+DTSTART:20260818T113000
+DTEND:20260818T130000
+DTSTAMP:20260818T060005Z
+UID:Accenture Zürich (Sihlcity)-2026-08-18-2f01c2ce6a71@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBO KHO\nJapanese-Style Beef Ragout\, Soy Sauce\,
+  Lemongrass\, Basmati Rice\, Pak Choi\nCHF 18.50\n(Gluten-free\, Lactose-f
+ ree)\n\n\nGREEN\n-----\nKOKI\nPaneer\, Malabar sauce\, eggplant\, sweet po
+ tatoes\, leeks\, basmati rice\, pak choi\nCHF 18.50\n(Vegetarian\, Gluten-
+ free)\n\n\nDAILY BOWL\n----------\nGreek Bowl\nFeta cheese\, bell peppers\
+ , cucumbers\, tomatoes\, red onions\, bulgur\, arugula\, nuts\, seeds\nCHF
+  10.50\n(Vegetarian)\n\n\nTAGESSUPPE\n----------\nbeef broth\nWith country
+ -style vegetables and fresh herbs\nCHF 6.50
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
