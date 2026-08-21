@@ -4,18 +4,17 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260820T113000
-DTEND:20260820T130000
-DTSTAMP:20260820T053416Z
-UID:Accenture Zürich (Sihlcity)-2026-08-20-f45a3a0aac0f@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nChicken cordon bleu\nChicken thigh cordon bleu\,
-  turkey ham\, greyerzer-cheese\, potato gratin\, broccoli\nCHF 18.50\n\n\n
- GREEN\n-----\nCauliflower and cheese medallions\nCranberry jam\, potato gr
- atin\, broccoli\nCHF 18.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nNico
- ise Bowl\nTuna\, romaine lettuce\, eggs\, tomatoes\, red beans\, new potat
- oes\, onions\, black olives\nCHF 10.50\n(Gluten-free\, Lactose-free)\n\n\n
- TAGESSUPPE\n----------\nCauliflower Curry Soup\nCoriander\nCHF 6.50\n(Vega
- n\, Gluten-free\, Lactose-free)
+DTSTART:20260821T113000
+DTEND:20260821T130000
+DTSTAMP:20260821T053531Z
+UID:Accenture Zürich (Sihlcity)-2026-08-21-629cf9b6dfa7@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nTeriyaki Salmon Fillet\nTeriyaki sauce\, fried r
+ ice\, ginger carrots\, edamame\, cilantro\, soybean sprouts\, black sesame
+  seeds\nCHF 18.50\n\n\nGREEN\n-----\nFried Gyoza\nTeriyaki sauce\, fried r
+ ice\, ginger carrots\, edamame\, cilantro\, soybean sprouts\, black sesame
+  seeds\nCHF 18.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nSuprise Bowl\
+ nCHF 10.50\n\n\nTAGESSUPPE\n----------\nVichyssoise\nChives\nCHF 6.50\n(Ve
+ getarian)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
