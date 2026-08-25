@@ -4,18 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260824T113000
-DTEND:20260824T130000
-DTSTAMP:20260824T054056Z
-UID:Accenture Zürich (Sihlcity)-2026-08-24-ae78c1bcfae6@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTaco Bowl\nTaco-Kartoffeln\, Chili con Carne\, m
- exikanischer Salat\, Cheddar\, Sauerrahm\nCHF 18.50\n\n\nGREEN\n-----\nSpi
- nach Tortellini\nOrganic Ricotta Cream Sauce\nCHF 12.50\n(Vegetarian)\n\n\
- nDAILY BOWL\n----------\nAsia Tuna Bowl\nTuna\, sushi rice\, edamame\, car
- rots\, red cabbage\, avocado\, mango\, scallions\, sesame seeds\, cilantro
- \, Thai basil\, lime wedge\nCHF 10.50\n(Gluten-free\, Lactose-free)\n\n\nT
- AGESSUPPE\n----------\nVegetable broth\nFideli & Diced Vegetables\nCHF 6.5
- 0\n(Vegetarian\, Lactose-free)
+DTSTART:20260825T113000
+DTEND:20260825T130000
+DTSTAMP:20260825T053423Z
+UID:Accenture Zürich (Sihlcity)-2026-08-25-01150c28898d@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBBQ Day Sihlou\nPork loin steak\, chimichurri\, 
+ potato salad\, coleslaw\, homemade bread\nCHF 12.50\n\n\nGREEN\n-----\nBBQ
+  Day Sihlou\nplanted° Soy Steak\, Chimichurri\, Potato Salad\, Coleslaw\,
+  Homemade Bread\nCHF 18.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nPowe
+ r Bowl\nQuinoa\, sweet potatoes\, chickpeas\, ras el hanout\, avocado\, ch
+ erry tomatoes\, arugula\, cucumbers\, pumpkin seeds\, mint\, parsley\nCHF 
+ 10.50\n(Vegan\, Gluten-free\, Lactose-free)\n\n\nTAGESSUPPE\n----------\nC
+ ream of Tomato Soup\nBasil & Sour Cream\nCHF 6.50\n(Vegetarian\, Gluten-fr
+ ee)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
