@@ -4,19 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260826T113000
-DTEND:20260826T130000
-DTSTAMP:20260826T053655Z
-UID:Accenture Zürich (Sihlcity)-2026-08-26-c73da9cbed71@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nWestern Nepalese Thakali Curry\nTurkey\, bell pe
- ppers\, red onion\, coriander\, cloves\, jasmine rice\nCHF 18.50\n(Lactose
- -free)\n\n\nGREEN\n-----\nÄlpler Magaronen\nMacaroni with cream sauce\, o
- nions\, potatoes\, applesauce\, fried onions\nCHF 12.50\n(Vegetarian)\n\n\
- nDAILY BOWL\n----------\nSwiss Salad Bowl\nCervelat\, Swiss cheese\, icebe
- rg lettuce\, tomatoes\, pickles\, red onions\, egg\, radishes\, chives\, r
- oasted onions\nCHF 10.50\n\n\nTAGESSUPPE\n----------\nVegetable Coconut Cu
- rry Soup\nCoriander & Sesame\nCHF 6.50\n(Vegan\, Gluten-free\, Lactose-fre
- e)
+DTSTART:20260831T113000
+DTEND:20260831T130000
+DTSTAMP:20260830T102116Z
+UID:Accenture Zürich (Sihlcity)-2026-08-31-6f5c4f1ef5fd@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nCHICKEN BREAST SALTIMBOCCA\nThyme sauce\, saffro
+ n risotto\, ratatouille\nCHF 18.50\n\n\nGREEN\n-----\nEGGPLANT MOUSSAKA\nE
+ ggplant casserole\, vegetable medley\, tomato sauce\, béchamel sauce\, fe
+ ta cheese\, potatoes\, grated cheese\, basil\nCHF 18.50\n(Vegetarian)\n\n\
+ nDAILY BOWL\n----------\nMelon-Feta Bowl\nMelon\, bulgur\, arugula\, feta\
+ , cucumber\, red onions\, mint\, pine nuts\, fresh pepper\nCHF 10.50\n(Veg
+ etarian\, Lactose-free)\n\n\nTAGESSUPPE\n----------\nCream of Tomato Soup\
+ nBasil & Croutons\nCHF 6.50\n(Vegetarian)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
