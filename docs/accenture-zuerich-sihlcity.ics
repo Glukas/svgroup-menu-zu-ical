@@ -4,18 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260831T113000
-DTEND:20260831T130000
-DTSTAMP:20260831T112652Z
-UID:Accenture Zürich (Sihlcity)-2026-08-31-6f5c4f1ef5fd@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nCHICKEN BREAST SALTIMBOCCA\nThyme sauce\, saffro
- n risotto\, ratatouille\nCHF 18.50\n\n\nGREEN\n-----\nEGGPLANT MOUSSAKA\nE
- ggplant casserole\, vegetable medley\, tomato sauce\, béchamel sauce\, fe
- ta cheese\, potatoes\, grated cheese\, basil\nCHF 18.50\n(Vegetarian)\n\n\
- nDAILY BOWL\n----------\nMelon-Feta Bowl\nMelon\, bulgur\, arugula\, feta\
- , cucumber\, red onions\, mint\, pine nuts\, fresh pepper\nCHF 10.50\n(Veg
- etarian\, Lactose-free)\n\n\nTAGESSUPPE\n----------\nCream of Tomato Soup\
- nBasil & Croutons\nCHF 6.50\n(Vegetarian)
+DTSTART:20260901T113000
+DTEND:20260901T130000
+DTSTAMP:20260901T094942Z
+UID:Accenture Zürich (Sihlcity)-2026-09-01-34a20b5bbb15@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBBQ Day Sihlou\nVeal bratwurst or cervelat\, hom
+ emade mustard dip\, potato-cucumber salad\, bread rolls\nCHF 12.50\n\n\nGR
+ EEN\n-----\nBBQ Day Sihlou\nplanted° bratwurst\, homemade mustard dip\, p
+ otato and cucumber salad\, bread rolls\nCHF 12.50\n(Vegetarian)\n\n\nDAILY
+  BOWL\n----------\nBeef Bowl\nPastrami\, leaf lettuce\, mixed cherry tomat
+ oes\, buffalo mozzarella\, roasted potato wedges\, pickled onions\, roaste
+ d seeds\, olives\, Grana Padano cheese\, basil\, radish\nCHF 10.50\n(Glute
+ n-free)\n\n\nTAGESSUPPE\n----------\nTom Kha Soup\nThai Basil & Asian Vege
+ tables\nCHF 6.50\n(Vegan\, Gluten-free\, Lactose-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
