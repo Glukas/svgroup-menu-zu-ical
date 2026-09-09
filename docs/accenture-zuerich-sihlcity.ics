@@ -4,18 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260907T113000
-DTEND:20260907T130000
-DTSTAMP:20260907T100041Z
-UID:Accenture Zürich (Sihlcity)-2026-09-07-06e88386cc79@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nBreaded meatloaf cutlet\nThyme sauce\, mashed po
- tatoes\, roasted vegetables\nCHF 18.50\n\n\nGREEN\n-----\nPenne Cinque P\n
- Tomato cream sauce\, whole-grain spelt penne\, parsley\, pepper\, grated c
- heese\nCHF 12.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nChicken Ceaser
-  Salad\nLettuce\, breaded chicken breast strips\, Grana Padano cheese\, to
- matoes\, croutons\, eggs\, chives\nCHF 10.50\n(Lactose-free)\n\n\nTAGESSUP
- PE\n----------\nCream of Potato and Leek Soup\nParsley & Croutons\nCHF 6.5
- 0\n(Vegetarian)
+DTSTART:20260909T113000
+DTEND:20260909T130000
+DTSTAMP:20260909T092737Z
+UID:Accenture Zürich (Sihlcity)-2026-09-09-2a07d3464109@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBeef Burger\nBeef\, sesame bun\, Gruyère cheese
+ \, pickles\, onions\, ketchup\, mustard\, baked potatoes\, sour cream\nCHF
+  18.50\n\n\nGREEN\n-----\nVegetable Burger\nVegetable burger\, sesame bun\
+ , Gruyère cheese\, pickles\, onions\, ketchup\, mustard\, baked potatoes\
+ , sour cream\nCHF 18.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nSalm Bo
+ wl\nRaw salmon cubes\, sushi rice\, spinach\, edamame\, mango\, avocado\, 
+ spring onions\, sesame mix\, coriander\, Thai basil\, lime\, teriyaki sauc
+ e\nCHF 10.50\n(Lactose-free)\n\n\nTAGESSUPPE\n----------\nVegetable Curry 
+ Soup\nCoriander & Sesame\nCHF 6.50\n(Vegan\, Gluten-free\, Lactose-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
