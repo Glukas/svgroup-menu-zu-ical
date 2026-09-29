@@ -4,19 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260928T113000
-DTEND:20260928T130000
-DTSTAMP:20260928T113210Z
-UID:Accenture Zürich (Sihlcity)-2026-09-28-387270587874@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nChicken Burrito\nWheat tortilla\, chicken\, bell
-  peppers\, corn\, red beans\, salsa\, sour cream dip\, tomato and cucumber
-  salad\nCHF 18.50\n\n\nGREEN\n-----\nSpaghetti al la Pomodoro\nTomato sauc
- e\, grated cheese\, chili oil\nCHF 12.50\n(Vegetarian\, Lactose-free)\n\n\
- nDAILY BOWL\n----------\nAsian Bowl\nAvocado\, basmati rice\, carrots\, ed
- amame\, sesame seeds\, shrimp\, zucchini\, pickled ginger\, scallions\, wa
- tercress\nCHF 10.50\n(Gluten-free\, Lactose-free)\n\n\nTAGESSUPPE\n-------
- ---\nParsnip and Apple Soup\nWalnuts and chervil\nCHF 6.50\n(Vegan\, Glute
- n-free\, Lactose-free)
+DTSTART:20260929T113000
+DTEND:20260929T130000
+DTSTAMP:20260929T111201Z
+UID:Accenture Zürich (Sihlcity)-2026-09-29-40f08ab240bf@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegeta
+ rian\; soy sauce\; Tenz Momo Original Chili Sauce\nCHF 12.50\n\n\nGREEN\n-
+ ----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegetarian\; soy sauce\; T
+ enz Momo Original Chili Sauce\nCHF 12.50\n\n\nDAILY BOWL\n----------\nAutu
+ mn Bowl\nLamb's lettuce\, quinoa\, pumpkin\, beets\, diced apples\, goat c
+ heese\, walnuts\, carrots\, red onions\, pumpkin seeds\, chives\nCHF 10.50
+ \n(Vegetarian)\n\n\nTAGESSUPPE\n----------\nbeef broth\nWith country-style
+  vegetables and fresh herbs\nCHF 6.50
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
