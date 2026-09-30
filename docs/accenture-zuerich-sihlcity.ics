@@ -4,18 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20260929T113000
-DTEND:20260929T130000
-DTSTAMP:20260929T111201Z
-UID:Accenture Zürich (Sihlcity)-2026-09-29-40f08ab240bf@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegeta
- rian\; soy sauce\; Tenz Momo Original Chili Sauce\nCHF 12.50\n\n\nGREEN\n-
- ----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegetarian\; soy sauce\; T
- enz Momo Original Chili Sauce\nCHF 12.50\n\n\nDAILY BOWL\n----------\nAutu
- mn Bowl\nLamb's lettuce\, quinoa\, pumpkin\, beets\, diced apples\, goat c
- heese\, walnuts\, carrots\, red onions\, pumpkin seeds\, chives\nCHF 10.50
- \n(Vegetarian)\n\n\nTAGESSUPPE\n----------\nbeef broth\nWith country-style
-  vegetables and fresh herbs\nCHF 6.50
+DTSTART:20260930T113000
+DTEND:20260930T130000
+DTSTAMP:20260930T110005Z
+UID:Accenture Zürich (Sihlcity)-2026-09-30-c483cb6d66a4@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nTikka Masala\nChicken stew\, Indian curry\, yogu
+ rt-tomato sauce\, basmati rice\, cabbage\, mustard\, turmeric\, chili pepp
+ ers\nCHF 18.50\n(Gluten-free\, Lactose-free)\n\n\nGREEN\n-----\nCapuns\nGr
+ isons pasta dish\, vegetables\, chard\, béchamel sauce\, cheese\nCHF 18.5
+ 0\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nGreek Bowl\nFeta cheese\, bel
+ l peppers\, cucumbers\, tomatoes\, red onions\, bulgur\, arugula\, olives\
+ , nuts\, seeds\nCHF 10.50\n(Vegetarian)\n\n\nTAGESSUPPE\n----------\nRiesl
+ ing Soup\nChives and Croutons\nCHF 6.50\n(Vegetarian)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
