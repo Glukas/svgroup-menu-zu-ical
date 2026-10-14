@@ -4,19 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261013T113000
-DTEND:20261013T130000
-DTSTAMP:20261013T123119Z
-UID:Accenture Zürich (Sihlcity)-2026-10-13-22c2e86fcbb0@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegeta
- rian\; soy sauce\; Tenz Momo Original Chili Sauce\nCHF 12.50\n\n\nGREEN\n-
- ----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegetarian\; soy sauce\; T
- enz Momo Original Chili Sauce\nCHF 12.50\n\n\nDAILY BOWL\n----------\nBeef
-  Bowl\nPastrami\, leaf lettuce\, mixed cherry tomatoes\, buffalo mozzarell
- a\, roasted potato wedges\, pickled onions\, roasted seeds\, olives\, Gran
- a Padano cheese\, basil\, radish\nCHF 10.50\n(Gluten-free)\n\n\nTAGESSUPPE
- \n----------\nTom Kha Soup\nThai Basil & Asian Vegetables\nCHF 6.50\n(Vega
- n\, Gluten-free\, Lactose-free)
+DTSTART:20261014T113000
+DTEND:20261014T130000
+DTSTAMP:20261014T095918Z
+UID:Accenture Zürich (Sihlcity)-2026-10-14-c24e1249f953@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nCrispy Sesame Chicken\nChicken\, Korean Cucumber
+  Salad\, Sticky Soy Sauce\, Jasmine Rice\nCHF 18.50\n(Lactose-free)\n\n\nG
+ REEN\n-----\nGobi Sweet Sour\nCauliflower\, coriander\, jeera daal\, jasmi
+ ne rice\nCHF 18.50\n(Vegan\, Gluten-free\, Lactose-free)\n\n\nDAILY BOWL\n
+ ----------\nSpicy Kimchi Avocado Bowl\nAvocado\, sushi rice\, edamame\, re
+ d cabbage\, kimchi\, coriander\, wasabi nuts\, pickled ginger\, spring oni
+ ons\nCHF 10.50\n(Vegan\, Gluten-free\, Lactose-free)\n\n\nTAGESSUPPE\n----
+ ------\nCream of Mushroom Soup\nChives & Mushrooms\nCHF 6.50\n(Vegetarian\
+ , Gluten-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
