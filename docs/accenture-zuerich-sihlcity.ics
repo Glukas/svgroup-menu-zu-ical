@@ -4,19 +4,18 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261014T113000
-DTEND:20261014T130000
-DTSTAMP:20261014T095918Z
-UID:Accenture Zürich (Sihlcity)-2026-10-14-c24e1249f953@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nCrispy Sesame Chicken\nChicken\, Korean Cucumber
-  Salad\, Sticky Soy Sauce\, Jasmine Rice\nCHF 18.50\n(Lactose-free)\n\n\nG
- REEN\n-----\nGobi Sweet Sour\nCauliflower\, coriander\, jeera daal\, jasmi
- ne rice\nCHF 18.50\n(Vegan\, Gluten-free\, Lactose-free)\n\n\nDAILY BOWL\n
- ----------\nSpicy Kimchi Avocado Bowl\nAvocado\, sushi rice\, edamame\, re
- d cabbage\, kimchi\, coriander\, wasabi nuts\, pickled ginger\, spring oni
- ons\nCHF 10.50\n(Vegan\, Gluten-free\, Lactose-free)\n\n\nTAGESSUPPE\n----
- ------\nCream of Mushroom Soup\nChives & Mushrooms\nCHF 6.50\n(Vegetarian\
- , Gluten-free)
+DTSTART:20261015T113000
+DTEND:20261015T130000
+DTSTAMP:20261015T094052Z
+UID:Accenture Zürich (Sihlcity)-2026-10-15-bde216497bca@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nBeef Cheeks\nRed wine sauce\, bramata polenta\, 
+ braised red cabbage\nCHF 18.50\n(Gluten-free)\n\n\nGREEN\n-----\nMac & Che
+ ese\nPasta macaroni\, cheese sauce\, fried onions\, green onions\, chives\
+ nCHF 12.50\n(Vegetarian)\n\n\nDAILY BOWL\n----------\nChick Pea Bowl\nChic
+ ken\, chickpeas\, diced potatoes\, red cabbage\, beets\, kale\, carrots\, 
+ apple\, cashews\, pomegranate seeds\, chervil\nCHF 10.50\n\n\nTAGESSUPPE\n
+ ----------\nPumpkin Curry Soup\nCoriander & Sesame\nCHF 6.50\n(Vegan\, Glu
+ ten-free\, Lactose-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
