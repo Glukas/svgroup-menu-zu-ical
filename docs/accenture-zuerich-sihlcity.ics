@@ -4,19 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261020T113000
-DTEND:20261020T130000
-DTSTAMP:20261020T095133Z
-UID:Accenture Zürich (Sihlcity)-2026-10-20-0836f438ab9e@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegeta
- rian\; soy sauce\; Tenz Momo Original Chili Sauce\nCHF 12.50\n\n\nGREEN\n-
- ----\nTENZ MOMOS\nChoice of beef\, chicken\, or vegetarian\; soy sauce\; T
- enz Momo Original Chili Sauce\nCHF 12.50\n\n\nDAILY BOWL\n----------\nAutu
- mn Bowl\nLamb's lettuce\, roasted pumpkin\, diced potatoes\, egg\, diced a
- pple\, beets\, julienned carrots\, pickled red onions\, toasted walnuts\, 
- pumpkin seeds\, herbs\nCHF 10.50\n(Vegetarian\, Gluten-free\, Lactose-free
- )\n\n\nTAGESSUPPE\n----------\nBeef broth with julienned vegetables\nChive
- s\nCHF 6.50\n(Lactose-free)
+DTSTART:20261021T113000
+DTEND:20261021T130000
+DTSTAMP:20261021T095338Z
+UID:Accenture Zürich (Sihlcity)-2026-10-21-536a5dce7007@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nVenison Pepper Stew\nSpätzli\, Brussels sprouts
+ \, red cabbage\, chestnuts\nCHF 18.50\n\n\nGREEN\n-----\nMushroom risotto\
+ nChanterelle mushrooms\, risotto rice\, sour cream\, chervil\, arugulaEier
+ schwämmli\, Risottoreis\, Sauerrahm\, Kerbel\, Rucola | Menüsalat\nCHF 1
+ 2.50\n(Vegetarian\, Gluten-free)\n\n\nDAILY BOWL\n----------\nSalm Bowl\nR
+ aw salmon cubes\, sushi rice\, spinach\, edamame\, mango\, avocado\, sprin
+ g onions\, sesame mix\, coriander\, Thai basil\, lime\, teriyaki sauce\nCH
+ F 10.50\n(Lactose-free)\n\n\nTAGESSUPPE\n----------\nVegetable Curry Soup\
+ nCoriander & Sesame\nCHF 6.50\n(Vegan\, Gluten-free\, Lactose-free)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
