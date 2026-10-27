@@ -1,11 +1,8 @@
-
-
 from __future__ import annotations
 
 import hashlib
 import logging
 import sys
-import time
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -14,12 +11,11 @@ import yaml
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 from selenium import webdriver
+from selenium.common.exceptions import TimeoutException, WebDriverException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 logging.basicConfig(
     level=logging.INFO,
@@ -34,7 +30,8 @@ OUTPUT_DIR = ROOT / "docs"
 # Wie viele Tage ab heute abgerufen werden sollen (Wochenenden werden automatisch übersprungen)
 DAYS_AHEAD = 2
 
-# Auf True setzen, um das gerenderte HTML zusätzlich in debug_page_{tag}.html zu speichern (hilfreich, falls sich die Struktur mal wieder ändert)
+# Auf True setzen, um auch erfolgreiche Abrufe als debug_page_{tag}.html zu speichern.
+# Bei Abruf- oder Parserfehlern wird das HTML unabhängig davon gespeichert.
 DEBUG_DUMP_HTML = False
 
 
@@ -48,7 +45,7 @@ class MenuEntry:
     category: str | None
     dish: str
     description: str | None = None
-    price: str | None = None  
+    price: str | None = None
     tags: list[str] = field(default_factory=list)
 
     def content_hash(self) -> str:
@@ -74,57 +71,87 @@ def build_driver() -> webdriver.Chrome:
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--lang=de-CH")
     options.add_argument("--window-size=1400,2000")
+    options.add_experimental_option("prefs", {"intl.accept_languages": "de-CH,de"})
 
     service = Service(ChromeDriverManager().install())
-    return webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Chrome(service=service, options=options)
+    try:
+        # Die Website speichert ihre Sprache separat von der Browsersprache.
+        driver.execute_cdp_cmd(
+            "Page.addScriptToEvaluateOnNewDocument",
+            {
+                "source": """
+                    if (location.hostname === 'sv-gastronomie.ch') {
+                        localStorage.setItem('cp-svgroupch-language', 'de-CH');
+                    }
+                """,
+            },
+        )
+    except WebDriverException:
+        driver.quit()
+        raise
+    return driver
 
 
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+def save_debug_html(driver: webdriver.Chrome, debug_tag: str) -> None:
+    debug_path = ROOT / f"debug_page_{debug_tag}.html"
+    try:
+        debug_path.write_text(driver.page_source, encoding="utf-8")
+        log.info("Debug-HTML gespeichert unter %s", debug_path)
+    except (OSError, WebDriverException) as e:
+        log.warning("Debug-HTML konnte nicht gespeichert werden: %s", e)
 
 
 def fetch_rendered_page(driver: webdriver.Chrome, url: str, debug_tag: str = "") -> str:
-    """Rendert die Seite per Selenium (headless Chrome) und gibt den
-    finalen (nach JS-Ausführung entstandenen) HTML-Inhalt zurück."""
+    """Wartet auf gefüllte Gerichtskarten oder einen ausdrücklichen Keine-Daten-Zustand."""
     try:
         driver.set_page_load_timeout(30)
         driver.get(url)
-       
-        try:
-            WebDriverWait(driver, 15).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "app-category, app-menu-card"))
+        WebDriverWait(driver, 30).until(
+            lambda d: d.execute_script(
+                """
+                const products = document.querySelectorAll('app-category .product-card');
+                const ready = products.length > 0 && Array.from(products).every(product => {
+                    const name = product.querySelector('.product-title button');
+                    return name && name.textContent.trim().length > 0;
+                });
+                return ready || document.querySelector('app-menu-no-data') !== null;
+                """
             )
-        except Exception:
-            log.warning("Timeout beim Warten auf app-category für %s", url)
+        )
         html = driver.page_source
-    except Exception as e:
+    except TimeoutException as e:
+        raise ParserError(
+            f"Zeitlimit beim Laden von {url}: keine vollständigen Gerichtskarten "
+            "oder ausdrückliche Keine-Daten-Anzeige erhalten"
+        ) from e
+    except WebDriverException as e:
         raise ParserError(f"Fehler beim Laden von {url}: {e}") from e
 
     if DEBUG_DUMP_HTML:
-        debug_path = ROOT / f"debug_page_{debug_tag}.html"
-        debug_path.write_text(html, encoding="utf-8")
-        log.info("Debug-HTML gespeichert unter %s", debug_path)
+        save_debug_html(driver, debug_tag)
 
     return html
 
 
 def extract_menu_entries(html: str, day: date) -> list[MenuEntry]:
-  
     soup = BeautifulSoup(html, "html.parser")
 
     body_text = soup.get_text(" ", strip=True)
     if not body_text or len(body_text) < 50:
         raise ParserError(
-            "Gerenderte Seite enthält (fast) keinen Text"
-            "JS wurde vermutlich nicht vollständig geladen"
+            "Gerenderte Seite enthält (fast) keinen Text. "
+            "JS wurde vermutlich nicht vollständig geladen."
         )
 
     categories = soup.select("app-category")
     if not categories:
+        if soup.select_one("app-menu-no-data"):
+            log.info("Website meldet ausdrücklich keine Menüdaten für %s", day)
+            return []
         raise ParserError(
-            "Kein <app-category>-Element gefunden, Seitenstruktur hat sich "
-            "vermutlich geändert. debug_page HTML prüfen."
+            "Kein <app-category>-Element und keine Keine-Daten-Anzeige gefunden. "
+            "Gespeichertes debug_page HTML prüfen."
         )
 
     entries: list[MenuEntry] = []
@@ -133,13 +160,13 @@ def extract_menu_entries(html: str, day: date) -> list[MenuEntry]:
         header = category_el.select_one("h3.category-header")
         category_name = header.get_text(strip=True) if header else None
 
-        for product in category_el.select("div.product-wrapper"):
-            name_el = product.select_one(".name-column .legacy-text-xxl")
-            if not name_el:
-                continue
+        for product in category_el.select(".product-card"):
+            name_el = product.select_one(".product-title button")
+            if not name_el or not name_el.get_text(strip=True):
+                raise ParserError("Gerichtskarte ohne Namen gefunden; HTML-Struktur prüfen.")
 
-            teaser_el = product.select_one(".product-teaser")
-            price_el = product.select_one(".price-column .price")
+            teaser_el = product.select_one(".product-content > .push-bottom-xs")
+            price_el = product.select_one(".price-container .price")
 
             price_text = None
             if price_el:
@@ -163,8 +190,10 @@ def extract_menu_entries(html: str, day: date) -> list[MenuEntry]:
             )
 
     if not entries:
-       
-        log.info("Keine Menüeinträge für %s gefunden (evtl. kein Betrieb an diesem Tag)", day)
+        raise ParserError(
+            "Menükategorien vorhanden, aber keine Gerichtskarten gefunden. "
+            "Gespeichertes debug_page HTML prüfen."
+        )
 
     return entries
 
@@ -187,12 +216,12 @@ def format_day_description(day_entries: list[MenuEntry]) -> str:
     """Formatiert die Menüs eines Tages ähnlich der Website: Kategorie als
     Überschrift, darunter Name / Beschreibung / Preis pro Gericht."""
     lines: list[str] = []
-    last_category = object()  
+    last_category = object()
 
     for i, e in enumerate(day_entries):
         if e.category != last_category:
             if i > 0:
-                lines.append("")  
+                lines.append("")
             if e.category:
                 lines.append(e.category.upper())
                 lines.append("-" * len(e.category))
@@ -205,7 +234,7 @@ def format_day_description(day_entries: list[MenuEntry]) -> str:
             lines.append(e.price)
         if e.tags:
             lines.append(f"({', '.join(e.tags)})")
-        lines.append("")  
+        lines.append("")
 
     return "\n".join(lines).strip()
 
@@ -259,17 +288,19 @@ def process_restaurant(driver: webdriver.Chrome, cfg: dict) -> bool:
 
     for offset in range(DAYS_AHEAD):
         day = today + timedelta(days=offset)
-        
+
         if day.weekday() >= 5:
             continue
 
         day_url = f"{base_url}/date/{day.isoformat()}"
+        debug_tag = f"{slug}_{day}"
         try:
-            html = fetch_rendered_page(driver, day_url, debug_tag=f"{slug}_{day}")
+            html = fetch_rendered_page(driver, day_url, debug_tag=debug_tag)
             day_entries = extract_menu_entries(html, day)
             all_entries.extend(day_entries)
             log.info("  %s: %d Einträge", day, len(day_entries))
         except ParserError as e:
+            save_debug_html(driver, debug_tag)
             log.warning("  %s: Parser-Fehler, übersprungen: %s", day, e)
             continue
 
