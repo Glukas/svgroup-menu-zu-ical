@@ -4,19 +4,36 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261021T113000
-DTEND:20261021T130000
-DTSTAMP:20261021T095338Z
-UID:Accenture Zürich (Sihlcity)-2026-10-21-536a5dce7007@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nVenison Pepper Stew\nSpätzli\, Brussels sprouts
- \, red cabbage\, chestnuts\nCHF 18.50\n\n\nGREEN\n-----\nMushroom risotto\
- nChanterelle mushrooms\, risotto rice\, sour cream\, chervil\, arugulaEier
- schwämmli\, Risottoreis\, Sauerrahm\, Kerbel\, Rucola | Menüsalat\nCHF 1
- 2.50\n(Vegetarian\, Gluten-free)\n\n\nDAILY BOWL\n----------\nSalm Bowl\nR
- aw salmon cubes\, sushi rice\, spinach\, edamame\, mango\, avocado\, sprin
- g onions\, sesame mix\, coriander\, Thai basil\, lime\, teriyaki sauce\nCH
- F 10.50\n(Lactose-free)\n\n\nTAGESSUPPE\n----------\nVegetable Curry Soup\
- nCoriander & Sesame\nCHF 6.50\n(Vegan\, Gluten-free\, Lactose-free)
+DTSTART:20261028T113000
+DTEND:20261028T130000
+DTSTAMP:20261028T110554Z
+UID:Accenture Zürich (Sihlcity)-2026-10-28-03be8fd1ceb8@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nPouletgeschnetzteltes Zürcher Art\nChampignons\
+ , Rahmsauce\, Karotten\, Rösti\nCHF 18.50\n(Glutenfrei)\n\n\nGREEN\n-----
+ \nPlantbased Geschnetzeltes Zürcher Art\nPlantbased Chunks\, Champignons\
+ , Rahmsauce\, Karotten\, Rösti\nCHF 18.50\n(Vegan\, Laktosefrei)\n\n\nDAI
+ LY BOWL\n----------\nBeetroot Bowl\nRanden-Carpaccio\, Karotten\, Gurken\,
+  Quinoa\, Rucola\, Avocado\, Feta\, Kürbiskerne\, Sprossen\nCHF 10.50\n(V
+ egetarisch)\n\n\nTAGESSUPPE\n----------\nGemüsebouillon\nLetters pasta\, 
+ brunoise vegetables\nCHF 6.50\n(Vegan\, Laktosefrei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261029T113000
+DTEND:20261029T130000
+DTSTAMP:20261028T110554Z
+UID:Accenture Zürich (Sihlcity)-2026-10-29-7cbad1c7c9c7@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS KEBAB\nKebabfleisch\, Cockta
+ il- oder Joghurtsauce\, Eisberg\, Rucola\, Rotkabissalat\, Tomaten-Gurkens
+ alat\, rote Zwiebeln\, Fladenbrot\nCHF 14.50\n\n\nGREEN\n-----\nSTREETFOOD
+  SPECIALS KEBAB\nplanted° Kebab\, Cocktail- oder Joghurtsauce\, Eisberg\,
+  Rucola\, Rotkabissalat\, Tomaten-Gurkensalat\, rote Zwiebeln\, Fladenbrot
+ \nCHF 14.50\n(Vegan\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nSalmon & B
+ lack Rice Bowl\nLachs\, schwarzer Reis\, Edamame\, Randen\, Salatgurke\, M
+ ango\, Zwiebel Pickels\, Frühlingszwiebeln\, Sesam\, Koriander\nCHF 10.50
+ \n(Glutenfrei\, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nKürbis-Aprikose
+ ncremesuppe\nCHF 6.50\n(Vegetarisch\, Glutenfrei)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
