@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261028T113000
-DTEND:20261028T130000
-DTSTAMP:20261028T110554Z
-UID:Accenture Zürich (Sihlcity)-2026-10-28-03be8fd1ceb8@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nPouletgeschnetzteltes Zürcher Art\nChampignons\
- , Rahmsauce\, Karotten\, Rösti\nCHF 18.50\n(Glutenfrei)\n\n\nGREEN\n-----
- \nPlantbased Geschnetzeltes Zürcher Art\nPlantbased Chunks\, Champignons\
- , Rahmsauce\, Karotten\, Rösti\nCHF 18.50\n(Vegan\, Laktosefrei)\n\n\nDAI
- LY BOWL\n----------\nBeetroot Bowl\nRanden-Carpaccio\, Karotten\, Gurken\,
-  Quinoa\, Rucola\, Avocado\, Feta\, Kürbiskerne\, Sprossen\nCHF 10.50\n(V
- egetarisch)\n\n\nTAGESSUPPE\n----------\nGemüsebouillon\nLetters pasta\, 
- brunoise vegetables\nCHF 6.50\n(Vegan\, Laktosefrei)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261029T113000
 DTEND:20261029T130000
-DTSTAMP:20261028T110554Z
+DTSTAMP:20261029T112140Z
 UID:Accenture Zürich (Sihlcity)-2026-10-29-7cbad1c7c9c7@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS KEBAB\nKebabfleisch\, Cockta
  il- oder Joghurtsauce\, Eisberg\, Rucola\, Rotkabissalat\, Tomaten-Gurkens
@@ -34,6 +18,15 @@ DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS KEBAB\nKebabfleisch\, Cockta
  ango\, Zwiebel Pickels\, Frühlingszwiebeln\, Sesam\, Koriander\nCHF 10.50
  \n(Glutenfrei\, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nKürbis-Aprikose
  ncremesuppe\nCHF 6.50\n(Vegetarisch\, Glutenfrei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261030T113000
+DTEND:20261030T130000
+DTSTAMP:20261029T112140Z
+UID:Accenture Zürich (Sihlcity)-2026-10-30-44310834e110@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nSihlou is closed\nPelicano is open\nCHF 0.00
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
