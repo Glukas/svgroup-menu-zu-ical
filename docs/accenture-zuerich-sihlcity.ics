@@ -4,27 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261029T113000
-DTEND:20261029T130000
-DTSTAMP:20261029T112140Z
-UID:Accenture Zürich (Sihlcity)-2026-10-29-7cbad1c7c9c7@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS KEBAB\nKebabfleisch\, Cockta
- il- oder Joghurtsauce\, Eisberg\, Rucola\, Rotkabissalat\, Tomaten-Gurkens
- alat\, rote Zwiebeln\, Fladenbrot\nCHF 14.50\n\n\nGREEN\n-----\nSTREETFOOD
-  SPECIALS KEBAB\nplanted° Kebab\, Cocktail- oder Joghurtsauce\, Eisberg\,
-  Rucola\, Rotkabissalat\, Tomaten-Gurkensalat\, rote Zwiebeln\, Fladenbrot
- \nCHF 14.50\n(Vegan\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nSalmon & B
- lack Rice Bowl\nLachs\, schwarzer Reis\, Edamame\, Randen\, Salatgurke\, M
- ango\, Zwiebel Pickels\, Frühlingszwiebeln\, Sesam\, Koriander\nCHF 10.50
- \n(Glutenfrei\, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nKürbis-Aprikose
- ncremesuppe\nCHF 6.50\n(Vegetarisch\, Glutenfrei)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261030T113000
 DTEND:20261030T130000
-DTSTAMP:20261029T112140Z
+DTSTAMP:20261030T111342Z
 UID:Accenture Zürich (Sihlcity)-2026-10-30-44310834e110@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nSihlou is closed\nPelicano is open\nCHF 0.00
 LOCATION:Accenture Zürich (Sihlcity)
