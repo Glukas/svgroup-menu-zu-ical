@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261102T113000
 DTEND:20261102T130000
-DTSTAMP:20261101T114405Z
+DTSTAMP:20261102T131345Z
 UID:Accenture Zürich (Sihlcity)-2026-11-02-429b45489f67@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nTonkatsu\nSchweinesteak\, Panko Panade\, Bulldog
  sauce\, Sushireis\, Coleslaw\nCHF 18.50\n(Laktosefrei)\n\n\nGREEN\n-----\n
@@ -16,6 +16,22 @@ DESCRIPTION:WORLD\n-----\nTonkatsu\nSchweinesteak\, Panko Panade\, Bulldog
   Pickels\, Rucola\, Oliven\, Pinienkerne\, Basilikum\nCHF 10.50\n(Vegetari
  sch)\n\n\nTAGESSUPPE\n----------\nRindsbouillon\nGemüse-Paysanne\, Kräut
  er\nCHF 6.50\n(Laktosefrei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261103T113000
+DTEND:20261103T130000
+DTSTAMP:20261102T131345Z
+UID:Accenture Zürich (Sihlcity)-2026-11-03-17a3059dcf05@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
+ iginal Tenz Momo Chilisauce\nCHF 12.50\n(Laktosefrei)\n\n\nGREEN\n-----\nT
+ ENZ MOMOS\nVegan Momos\, Sojasauce\, Original Tenz Momo Chilisauce\nCHF 12
+ .50\n(Vegan\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nJapan Tuna Bowl\nT
+ hunfisch\, Sushi Reis\, Edamame\, Avocado\, Mango\, Karotten\, Rotkohl\, F
+ rühlingszwiebeln\, Nori-Streifen\, Sesam\nCHF 10.50\n(Glutenfrei\, Laktos
+ efrei)\n\n\nTAGESSUPPE\n----------\nKürbiscremesuppe\nKürbiskernen & Kü
+ rbisöl\nCHF 6.50\n(Vegetarisch\, Glutenfrei)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
