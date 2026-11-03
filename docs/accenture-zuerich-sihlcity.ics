@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261102T113000
-DTEND:20261102T130000
-DTSTAMP:20261102T131345Z
-UID:Accenture Zürich (Sihlcity)-2026-11-02-429b45489f67@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTonkatsu\nSchweinesteak\, Panko Panade\, Bulldog
- sauce\, Sushireis\, Coleslaw\nCHF 18.50\n(Laktosefrei)\n\n\nGREEN\n-----\n
- Japanisches Kürbis Curry\nTofu\, Sushireis\, Frühlingszwiebel\nCHF 18.50
- \n(Vegan\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nMediterrane Vegi Bowl
- \nCouscous\, Fetakäse\, Peperoni\, Gurken\, Cherrytomaten\, rote Zwiebeln
-  Pickels\, Rucola\, Oliven\, Pinienkerne\, Basilikum\nCHF 10.50\n(Vegetari
- sch)\n\n\nTAGESSUPPE\n----------\nRindsbouillon\nGemüse-Paysanne\, Kräut
- er\nCHF 6.50\n(Laktosefrei)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261103T113000
 DTEND:20261103T130000
-DTSTAMP:20261102T131345Z
+DTSTAMP:20261103T124026Z
 UID:Accenture Zürich (Sihlcity)-2026-11-03-17a3059dcf05@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
  iginal Tenz Momo Chilisauce\nCHF 12.50\n(Laktosefrei)\n\n\nGREEN\n-----\nT
@@ -32,6 +16,21 @@ DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
  rühlingszwiebeln\, Nori-Streifen\, Sesam\nCHF 10.50\n(Glutenfrei\, Laktos
  efrei)\n\n\nTAGESSUPPE\n----------\nKürbiscremesuppe\nKürbiskernen & Kü
  rbisöl\nCHF 6.50\n(Vegetarisch\, Glutenfrei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261104T113000
+DTEND:20261104T130000
+DTSTAMP:20261103T124026Z
+UID:Accenture Zürich (Sihlcity)-2026-11-04-a8a379db379a@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nHirschgeschnetzeltes\nWildrahmsauce\, Knöpfli\,
+  zweierlei Ofen-Randen\nCHF 18.50\n\n\nGREEN\n-----\nCapuns\nBündner Teig
+ gericht\, Gemüse\, Mangold\, Bechamel\, Käse\, zweierlei Ofen-Randen\nCH
+ F 18.50\n(Vegetarisch)\n\n\nDAILY BOWL\n----------\nBuddha Bowl\nFalafel\,
+  Avocado\, Süsskartoffeln\, rote Linsen\, Randen-Hummus\, Blattsalat\, Gr
+ anatapfelkerne\nCHF 10.50\n(Vegan\, Laktosefrei)\n\n\nTAGESSUPPE\n--------
+ --\nBlumenkohlsuppe\nSchnittlauch & Croutons\nCHF 6.50\n(Vegetarisch)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
