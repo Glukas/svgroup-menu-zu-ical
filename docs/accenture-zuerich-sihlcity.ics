@@ -4,24 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261104T113000
-DTEND:20261104T130000
-DTSTAMP:20261104T125001Z
-UID:Accenture Zürich (Sihlcity)-2026-11-04-a8a379db379a@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nHirschgeschnetzeltes\nWildrahmsauce\, Knöpfli\,
-  zweierlei Ofen-Randen\nCHF 18.50\n\n\nGREEN\n-----\nCapuns\nBündner Teig
- gericht\, Gemüse\, Mangold\, Bechamel\, Käse\, zweierlei Ofen-Randen\nCH
- F 18.50\n(Vegetarisch)\n\n\nDAILY BOWL\n----------\nBuddha Bowl\nFalafel\,
-  Avocado\, Süsskartoffeln\, rote Linsen\, Randen-Hummus\, Blattsalat\, Gr
- anatapfelkerne\nCHF 10.50\n(Vegan\, Laktosefrei)\n\n\nTAGESSUPPE\n--------
- --\nBlumenkohlsuppe\nSchnittlauch & Croutons\nCHF 6.50\n(Vegetarisch)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261105T113000
 DTEND:20261105T130000
-DTSTAMP:20261104T125001Z
+DTSTAMP:20261105T125821Z
 UID:Accenture Zürich (Sihlcity)-2026-11-05-9f3a71c88c68@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS JAPAN\nTeriyaki Hot Dog\, Wi
  enerli\, Brioche Bun\, Coleslaw\, Nori\, Wasabimayonnaise\, Teriyakisauce\
@@ -31,6 +16,15 @@ DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS JAPAN\nTeriyaki Hot Dog\, Wi
   Meat Bowl\nBulgur\, Lamm Meatballs\, Taboulé\, Joghurt-Minz-Dip\, Granat
  apfelkerne\, Kichererbsen\, Koriander\nCHF 10.50\n\n\nTAGESSUPPE\n--------
  --\nLinsencurrysuppe\nKoriander\, Sesam\nCHF 6.50
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261106T113000
+DTEND:20261106T130000
+DTSTAMP:20261105T125821Z
+UID:Accenture Zürich (Sihlcity)-2026-11-06-affcf8c67637@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nSihlou is closed\nPelicano is open\nCHF 0.00
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
