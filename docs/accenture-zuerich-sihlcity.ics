@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261105T113000
-DTEND:20261105T130000
-DTSTAMP:20261105T125821Z
-UID:Accenture Zürich (Sihlcity)-2026-11-05-9f3a71c88c68@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS JAPAN\nTeriyaki Hot Dog\, Wi
- enerli\, Brioche Bun\, Coleslaw\, Nori\, Wasabimayonnaise\, Teriyakisauce\
- nCHF 14.50\n\n\nGREEN\n-----\nSTREETFOOD SPECIALS JAPAN\nWasabi Dog\, vege
- tarisches Wienerli\, Brioche Bun\, Rettichsalat\, Nori\, Wasabimayonnaise\
- , Furikake\nCHF 14.50\n(Vegetarisch)\n\n\nDAILY BOWL\n----------\nOriental
-  Meat Bowl\nBulgur\, Lamm Meatballs\, Taboulé\, Joghurt-Minz-Dip\, Granat
- apfelkerne\, Kichererbsen\, Koriander\nCHF 10.50\n\n\nTAGESSUPPE\n--------
- --\nLinsencurrysuppe\nKoriander\, Sesam\nCHF 6.50
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261106T113000
 DTEND:20261106T130000
-DTSTAMP:20261105T125821Z
+DTSTAMP:20261106T124600Z
 UID:Accenture Zürich (Sihlcity)-2026-11-06-affcf8c67637@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nSihlou is closed\nPelicano is open\nCHF 0.00
 LOCATION:Accenture Zürich (Sihlcity)
