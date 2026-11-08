@@ -4,11 +4,19 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261106T113000
-DTEND:20261106T130000
-DTSTAMP:20261106T124600Z
-UID:Accenture Zürich (Sihlcity)-2026-11-06-affcf8c67637@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nSihlou is closed\nPelicano is open\nCHF 0.00
+DTSTART:20261109T113000
+DTEND:20261109T130000
+DTSTAMP:20261108T114634Z
+UID:Accenture Zürich (Sihlcity)-2026-11-09-4eb7c71150f4@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nTantanmen Ramen\nRindshackfleisch\, Pak Choi\, S
+ ojasporssen\, Furikake\nCHF 18.50\n(Laktosefrei)\n\n\nGREEN\n-----\nFried 
+ Gyoza\nTeriyaki-Sauce\, Fried Rice\, Ingwer-Karotten\, Edamame\, Koriander
+ \, Sojasprossen\, schwarzer Sesam\nCHF 18.50\n(Vegetarisch)\n\n\nDAILY BOW
+ L\n----------\nMushroom Bowl\nRucola\, Bulgur\, Champignons\, Kräuterseit
+ linge\, Süsskartoffeln\, Feigen\, Sbrinz Rollen\, Baumnüsse\, Sonnenblum
+ enkerne\, Petersilie\, Sprossen\nCHF 10.50\n(Vegetarisch)\n\n\nTAGESSUPPE\
+ n----------\nGemüsebouillon\nEi\, Reibkäse\, frische Kräuter\nCHF 6.50\
+ n(Vegetarisch)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
