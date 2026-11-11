@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261110T113000
-DTEND:20261110T130000
-DTSTAMP:20261110T131850Z
-UID:Accenture Zürich (Sihlcity)-2026-11-10-56297e0a2a05@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
- iginal Tenz Momo Chilisauce\nCHF 12.50\n(Laktosefrei)\n\n\nGREEN\n-----\nT
- ENZ MOMOS\nVegan Momos\, Sojasauce\, Original Tenz Momo Chilisauce\nCHF 12
- .50\n(Vegan\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nAutumn Bowl\nNüss
- lisalat\, Kürbispastete\, Randen\, Apfelwürfel\, Ziegenkäse\, Baumnüss
- e\, Karotten\,  rote Zwiebeln\, Kürbiskerne\, Schnittlauch\nCHF 10.50\n(V
- egetarisch)\n\n\nTAGESSUPPE\n----------\nSpinatcremesuppe\nSauerrahm\, Cro
- utons\nCHF 6.50\n(Vegetarisch)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261111T113000
 DTEND:20261111T130000
-DTSTAMP:20261110T131850Z
+DTSTAMP:20261111T122949Z
 UID:Accenture Zürich (Sihlcity)-2026-11-11-85e7b6dcc92f@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nPoulet Cordon-Bleu\nPoulet-Schenkel Cordon bleu\
  , Trutenschinken\, Greyerzer-Käse\, Kartoffelgratin\, Karotten\nCHF 18.50
@@ -33,6 +17,23 @@ DESCRIPTION:WORLD\n-----\nPoulet Cordon-Bleu\nPoulet-Schenkel Cordon bleu\
  HF 10.50\n(Glutenfrei\, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nPastinak
  enapfelsuppe\nBaumnüssen und Kerbel\nCHF 6.50\n(Vegan\, Glutenfrei\, Lakt
  osefrei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261112T113000
+DTEND:20261112T130000
+DTSTAMP:20261111T122949Z
+UID:Accenture Zürich (Sihlcity)-2026-11-12-fed5ef677172@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS\nBlack Angus Beef Burger\, B
+ BQ-Sauce\, Tomaten\, Essiggurken\, eingelegte Zwiebeln\, Salat\, Brioche B
+ un\, Cole Slaw\nCHF 14.50\n\n\nGREEN\n-----\nSTREETFOOD SPECIALS\nplanted
+ ° Patty\, BBQ-Sauce\, Tomaten\, Essiggurken\, eingelegte Zwiebeln\, Salat
+ \, Brioche Bun\, Cole Slaw\nCHF 14.50\n(Vegetarisch)\n\n\nDAILY BOWL\n----
+ ------\nNicoise Bowl\nThunfisch\, Lattich\, Eier\, Tomaten\, rote Bohnen\,
+  Frühlingskartoffeln\, Zwiebeln\, schwarze Oliven\nCHF 10.50\n(Glutenfrei
+ \, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nKürbis-Süsskartoffelsuppe\n
+ Ingwer\, Koriander\nCHF 6.50\n(Vegan\, Glutenfrei\, Laktosefrei)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
