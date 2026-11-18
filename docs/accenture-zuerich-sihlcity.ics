@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261117T113000
-DTEND:20261117T130000
-DTSTAMP:20261117T141054Z
-UID:Accenture Zürich (Sihlcity)-2026-11-17-263bb5d6ad88@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
- iginal Tenz Momo Chilisauce\nCHF 12.50\n(Laktosefrei)\n\n\nGREEN\n-----\nT
- ENZ MOMOS\nVegan Momos\, Sojasauce\, Original Tenz Momo Chilisauce\nCHF 12
- .50\n(Vegan\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nMezze Bowl\nFalafe
- l\, Hummus\, Taboulé\, Aubergine\, Peperoni\, rote Zwiebel\, Granatapfelk
- erne\, Oliven\, Joghurtminzedip\, Minze\, Koriander\, Sesam\nCHF 10.50\n(V
- egetarisch)\n\n\nTAGESSUPPE\n----------\nKarotten-Ingwersuppe\nKoriander &
-  Sesam\nCHF 6.50\n(Vegan\, Glutenfrei\, Laktosefrei)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261118T113000
 DTEND:20261118T130000
-DTSTAMP:20261117T141054Z
+DTSTAMP:20261118T134303Z
 UID:Accenture Zürich (Sihlcity)-2026-11-18-222c8ffc0ce5@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nPouletschenkelsteak Piri Piri\nSchnittlauch Jogh
  urt Dip\, Bratkartoffeln\, Ratatouille\nCHF 18.50\n(Glutenfrei)\n\n\nGREEN
@@ -32,6 +16,24 @@ DESCRIPTION:WORLD\n-----\nPouletschenkelsteak Piri Piri\nSchnittlauch Jogh
  t\, Gurkenwürfel\, Radieschen\, rote Zwiebeln\, Bergkäsewürfel\, Röstz
  wiebeln\, Schnittlauch\, Kürbiskerne\nCHF 10.50\n\n\nTAGESSUPPE\n--------
  --\nBündnergerstesuppe\nTrockenfleisch\, Schnittlauch\nCHF 6.50
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261119T113000
+DTEND:20261119T130000
+DTSTAMP:20261118T134303Z
+UID:Accenture Zürich (Sihlcity)-2026-11-19-eb57caa5db49@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS\nDonburi\, Sushi Reis\, Lach
+ s\, Sunomono\, Edamame\, Onsen Ei\, Japanische BBQ Sauce\, Frühlingszwieb
+ eln\, Sesam Schwarz\nCHF 14.50\n(Laktosefrei)\n\n\nGREEN\n-----\nSTREETFOO
+ D SPECIALS\nDonburi\, Sushi Reis\, Tofu Steak\, Sunomono\, Edamame\, Onsen
+  Ei\, Japanische BBQ Sauce\, Frühlingszwiebeln\, Sesam Schwarz\nCHF 14.50
+ \n(Vegetarisch\, Laktosefrei)\n\n\nDAILY BOWL\n----------\nAsia Tuna Bowl\
+ nThunfisch\, Sushi Reis\, Edamame\, Karotten\, Rotkohl\, Avocado\, Mango\,
+  Frühlingszwiebeln\, Sesam\, Koriander\, Thai Basilikum\, Limettenschnitz
+ \nCHF 10.50\n(Glutenfrei\, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nWaldp
+ ilzcremesuppe\nKerbel & Croutons\nCHF 6.50\n(Vegetarisch)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
