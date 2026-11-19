@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261118T113000
-DTEND:20261118T130000
-DTSTAMP:20261118T134303Z
-UID:Accenture Zürich (Sihlcity)-2026-11-18-222c8ffc0ce5@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nPouletschenkelsteak Piri Piri\nSchnittlauch Jogh
- urt Dip\, Bratkartoffeln\, Ratatouille\nCHF 18.50\n(Glutenfrei)\n\n\nGREEN
- \n-----\nCrispy Tenders\nSchnittlauch Joghurt Dip\, Bratkartoffeln\, Ratat
- ouille\nCHF 18.50\n(Vegetarisch)\n\n\nDAILY BOWL\n----------\nAlpen Bowl\n
- Kartoffelsalat mit Senf-Vinaigrette\, Poulet-Schnitzelstreifen\, Blattsala
- t\, Gurkenwürfel\, Radieschen\, rote Zwiebeln\, Bergkäsewürfel\, Röstz
- wiebeln\, Schnittlauch\, Kürbiskerne\nCHF 10.50\n\n\nTAGESSUPPE\n--------
- --\nBündnergerstesuppe\nTrockenfleisch\, Schnittlauch\nCHF 6.50
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261119T113000
 DTEND:20261119T130000
-DTSTAMP:20261118T134303Z
+DTSTAMP:20261119T141131Z
 UID:Accenture Zürich (Sihlcity)-2026-11-19-eb57caa5db49@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS\nDonburi\, Sushi Reis\, Lach
  s\, Sunomono\, Edamame\, Onsen Ei\, Japanische BBQ Sauce\, Frühlingszwieb
@@ -34,6 +18,15 @@ DESCRIPTION:WORLD\n-----\nSTREETFOOD SPECIALS\nDonburi\, Sushi Reis\, Lach
   Frühlingszwiebeln\, Sesam\, Koriander\, Thai Basilikum\, Limettenschnitz
  \nCHF 10.50\n(Glutenfrei\, Laktosefrei)\n\n\nTAGESSUPPE\n----------\nWaldp
  ilzcremesuppe\nKerbel & Croutons\nCHF 6.50\n(Vegetarisch)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261120T113000
+DTEND:20261120T130000
+DTSTAMP:20261119T141131Z
+UID:Accenture Zürich (Sihlcity)-2026-11-20-f58f61c26be4@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nSihlou is closed\nPelicano is open
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
