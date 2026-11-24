@@ -4,25 +4,9 @@ PRODID:-//SV Mensa Kalender//Accenture Zürich (Sihlcity)//DE
 X-WR-CALNAME:Mittagsmenü Accenture Zürich (Sihlcity)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
-DTSTART:20261123T113000
-DTEND:20261123T130000
-DTSTAMP:20261123T154524Z
-UID:Accenture Zürich (Sihlcity)-2026-11-23-8c2168584991@sv-mensa-ical
-DESCRIPTION:WORLD\n-----\nRind Quinoa Hacktätschli\nKräuterjus\, Kartoff
- elstock\, Karotten\nCHF 18.50\n\n\nGREEN\n-----\nplanted° Burger Patty\nK
- räuter-Quarkdip\, Kartoffelstock\, Karotten\nCHF 18.50\n(Vegetarisch)\n\n
- \nDAILY BOWL\n----------\nAutumn Bowl\nNüsslisalat\, Gerösteter Kürbis\
- , Bulgur\, Randen\, Apfelwürfel\, Camembert\, Kichererbsen\, rote Zwiebel
- n\, Baumnüsse\, Kürbiskerne\, Schnittlauch\nCHF 10.50\n(Vegetarisch)\n\n
- \nTAGESSUPPE\n----------\nTomatencremesuppe\nBasilikum & Croutons\nCHF 6.5
- 0\n(Vegetarisch)
-LOCATION:Accenture Zürich (Sihlcity)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
 DTSTART:20261124T113000
 DTEND:20261124T130000
-DTSTAMP:20261123T154524Z
+DTSTAMP:20261124T153630Z
 UID:Accenture Zürich (Sihlcity)-2026-11-24-1c322c2c930c@sv-mensa-ical
 DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
  iginal Tenz Momo Chilisauce\nCHF 12.50\n(Laktosefrei)\n\n\nGREEN\n-----\nT
@@ -33,6 +17,22 @@ DESCRIPTION:WORLD\n-----\nTENZ MOMOS\nRind & Poulet Momos\, Sojasauce\, Or
  , Petersilie\nCHF 10.50\n(Glutenfrei)\n\n\nTAGESSUPPE\n----------\nTom kha
   Suppe\nThai Basilikum & Asiagemüse\nCHF 6.50\n(Vegan\, Glutenfrei\, Lakt
  osefrei)
+LOCATION:Accenture Zürich (Sihlcity)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenü: Accenture Zürich (Sihlcity)
+DTSTART:20261125T113000
+DTEND:20261125T130000
+DTSTAMP:20261124T153630Z
+UID:Accenture Zürich (Sihlcity)-2026-11-25-f09ed5565828@sv-mensa-ical
+DESCRIPTION:WORLD\n-----\nPoulet Piccata\nTomatensauce\, Spaghetti\, Ofen 
+ Zucchetti\nCHF 18.50\n(Laktosefrei)\n\n\nGREEN\n-----\nAubergine Piccata\n
+ Tomatensauce\, Spaghetti\, Ofen Zucchetti\nCHF 18.50\n(Vegetarisch)\n\n\nD
+ AILY BOWL\n----------\nSpicy Kimchi Avocado Bowl\nAvocado\, Sushi Reis\, E
+ damame\, Rotkabis\, Kimchi\, Koriander\, Wasabi Nüsse\, eingelegeter Inwe
+ r\, Frühlingszwiebeln\nCHF 10.50\n(Vegan\, Glutenfrei\, Laktosefrei)\n\n\
+ nTAGESSUPPE\n----------\nPilzcremesuppe\nSchnittlauch & Champignons\nCHF 6
+ .50\n(Vegetarisch\, Glutenfrei)
 LOCATION:Accenture Zürich (Sihlcity)
 END:VEVENT
 END:VCALENDAR
